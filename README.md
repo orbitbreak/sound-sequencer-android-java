@@ -1,0 +1,2 @@
+src folder of a old Android app project, simulating a step sequencer instrument.
+It sets up a grid and plays polyphonic synth tone samples from a pentatonic scale as it iterates over the columns to create loop-based music.
